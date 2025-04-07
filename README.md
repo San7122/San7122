@@ -124,7 +124,7 @@
 </p>
 
 <p align="center">
-  🚀 Turning raw data into smart insights — one project at a time. Let's connect and build something amazing together!
+
 </p>
 
 
